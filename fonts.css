@@ -1,0 +1,168 @@
+@font-face {
+  font-family: 'esocons';
+  src:  url('fonts/esocons.eot?9uzoum');
+  src:  url('fonts/esocons.eot?9uzoum#iefix') format('embedded-opentype'),
+    url('fonts/esocons.ttf?9uzoum') format('truetype'),
+    url('fonts/esocons.woff?9uzoum') format('woff'),
+    url('fonts/esocons.svg?9uzoum#esocons') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="esocons-"], [class*=" esocons-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'esocons' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.esocons-link:before {
+  content: "\e92e";
+}
+.esocons-facebook:before {
+  content: "\e900";
+}
+.esocons-feed:before {
+  content: "\e901";
+}
+.esocons-flickr:before {
+  content: "\e902";
+}
+.esocons-foursquare:before {
+  content: "\e903";
+}
+.esocons-ghost:before {
+  content: "\e904";
+}
+.esocons-github:before {
+  content: "\e905";
+}
+.esocons-google:before {
+  content: "\e906";
+}
+.esocons-google-alt:before {
+  content: "\e907";
+}
+.esocons-google-plus:before {
+  content: "\e908";
+}
+.esocons-google-plus-alt:before {
+  content: "\e909";
+}
+.esocons-instagram:before {
+  content: "\e90a";
+}
+.esocons-linkedin:before {
+  content: "\e90b";
+}
+.esocons-mail:before {
+  content: "\e90c";
+}
+.esocons-medium:before {
+  content: "\e90d";
+}
+.esocons-path:before {
+  content: "\e90e";
+}
+.esocons-path-alt:before {
+  content: "\e90f";
+}
+.esocons-pinterest:before {
+  content: "\e910";
+}
+.esocons-pinterest-alt:before {
+  content: "\e911";
+}
+.esocons-pocket:before {
+  content: "\e912";
+}
+.esocons-polldaddy:before {
+  content: "\e913";
+}
+.esocons-print:before {
+  content: "\e914";
+}
+.esocons-reddit:before {
+  content: "\e915";
+}
+.esocons-share:before {
+  content: "\e916";
+}
+.esocons-skype:before {
+  content: "\e917";
+}
+.esocons-spotify:before {
+  content: "\e918";
+}
+.esocons-squarespace:before {
+  content: "\e919";
+}
+.esocons-stumbleupon:before {
+  content: "\e91a";
+}
+.esocons-telegram:before {
+  content: "\e91b";
+}
+.esocons-tumblr:before {
+  content: "\e91c";
+}
+.esocons-tumblr-alt:before {
+  content: "\e91d";
+}
+.esocons-twitch:before {
+  content: "\e91e";
+}
+.esocons-twitter:before {
+  content: "\e91f";
+}
+.esocons-twitter-alt:before {
+  content: "\e920";
+}
+.esocons-vimeo:before {
+  content: "\e921";
+}
+.esocons-whatsapp:before {
+  content: "\e922";
+}
+.esocons-wordpress:before {
+  content: "\e923";
+}
+.esocons-xanga:before {
+  content: "\e924";
+}
+.esocons-youtube:before {
+  content: "\e925";
+}
+.esocons-amazon:before {
+  content: "\e926";
+}
+.esocons-behance:before {
+  content: "\e927";
+}
+.esocons-blogger:before {
+  content: "\e928";
+}
+.esocons-blogger-alt:before {
+  content: "\e929";
+}
+.esocons-codepen:before {
+  content: "\e92a";
+}
+.esocons-dribbble:before {
+  content: "\e92b";
+}
+.esocons-dropbox:before {
+  content: "\e92c";
+}
+.esocons-eventbrite:before {
+  content: "\e92d";
+}
+
