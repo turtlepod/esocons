@@ -25,6 +25,12 @@ permission notices:
 
 and
 
+  Fontawesome is Copyright (c) Dave Gandy
+  https://twitter.com/davegandy - http://fontawesome.io
+ Fontawesome is released under the SIL Open Font License (OFL) 
+
+and
+
   Esocons is Copyright (c) GenbuMedia.com.
   http://genbumedia.com - https://genbumedia.com/library/esocons/
   Esocons is released under the GPL

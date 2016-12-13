@@ -1,10 +1,21 @@
+/**
+ * Esocons - Icons and Logos
+ * Selected icons and logos for WordPress Theme
+ * 
+ * @link http://genbumedia.com/library/esocons/
+ * @version 1.0.0
+ * @author David Chandra Purnama <david@genbumedia.com>
+ * @copyright Copyright (c) 2016, Genbu Media
+ * @license http://www.gnu.org/licenses/old-licenses/gpl-2.0.html
+**/
+
 @font-face {
   font-family: 'esocons';
-  src:  url('fonts/esocons.eot?9uzoum');
-  src:  url('fonts/esocons.eot?9uzoum#iefix') format('embedded-opentype'),
-    url('fonts/esocons.ttf?9uzoum') format('truetype'),
-    url('fonts/esocons.woff?9uzoum') format('woff'),
-    url('fonts/esocons.svg?9uzoum#esocons') format('svg');
+  src:  url('fonts/esocons.eot?i4aaps');
+  src:  url('fonts/esocons.eot?i4aaps#iefix') format('embedded-opentype'),
+    url('fonts/esocons.ttf?i4aaps') format('truetype'),
+    url('fonts/esocons.woff?i4aaps') format('woff'),
+    url('fonts/esocons.svg?i4aaps#esocons') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,6 +35,63 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.esocons-paypal:before {
+  content: "\e931";
+}
+.esocons-paypal-card:before {
+  content: "\e932";
+}
+.esocons-slack:before {
+  content: "\e933";
+}
+.esocons-star:before {
+  content: "\e934";
+}
+.esocons-stripe-card:before {
+  content: "\e935";
+}
+.esocons-visa-card:before {
+  content: "\e936";
+}
+.esocons-yelp:before {
+  content: "\e937";
+}
+.esocons-credit-card:before {
+  content: "\e938";
+}
+.esocons-heart:before {
+  content: "\e939";
+}
+.esocons-id-card:before {
+  content: "\e93a";
+}
+.esocons-mastercard-card:before {
+  content: "\e93b";
+}
+.esocons-money:before {
+  content: "\e93c";
+}
+.esocons-smartphone:before {
+  content: "\e93d";
+}
+.esocons-phone:before {
+  content: "\e93e";
+}
+.esocons-user:before {
+  content: "\e93f";
+}
+.esocons-location:before {
+  content: "\e940";
+}
+.esocons-linkedin-alt:before {
+  content: "\e914";
+}
+.esocons-globe:before {
+  content: "\e92f";
+}
+.esocons-facebook-alt:before {
+  content: "\e930";
+}
 .esocons-link:before {
   content: "\e92e";
 }
@@ -86,9 +154,6 @@
 }
 .esocons-polldaddy:before {
   content: "\e913";
-}
-.esocons-print:before {
-  content: "\e914";
 }
 .esocons-reddit:before {
   content: "\e915";
